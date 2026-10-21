@@ -1,6 +1,6 @@
-# Hi, I'm Hasan Faisal 👋
+Hi there, I'm Hasan.
 
-Undergrad CS student interested in building web apps, AI agents, and Computer Vision research.
+I'm an undergrad CS student interested in building web apps, AI agents, and Computer Vision research.
 
 - 🌐 Website: [hasanfaesal.github.io](https://hasanfaesal.github.io)
 - 🤗 Hugging Face: [huggingface.co/hasanfaesal](https://huggingface.co/hasanfaesal)
